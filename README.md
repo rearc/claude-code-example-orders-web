@@ -19,7 +19,7 @@ plugin of its own.
 node --test
 ```
 
-## Plugins (once per machine)
+## Plugins (once per person, in this repo)
 ```
 claude plugin marketplace add rearc/claude-code-example-marketplace --scope project
 claude plugin install team-standards@example-team-tools --scope project
