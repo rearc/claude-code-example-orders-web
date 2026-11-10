@@ -1,8 +1,8 @@
 # claude-code-example-orders-web
 
 A small web client for [orders-api](https://github.com/rearc/claude-code-example-orders-api),
-set up as a **self-contained Claude Code agent**. Part of the
-[claude-code-example-team-setup](https://github.com/rearc/claude-code-example-team-setup) example.
+set up as a **self-contained Claude Code agent**. Part of a four-repo example of a team
+Claude Code setup, with [orders-api](https://github.com/rearc/claude-code-example-orders-api), [marketplace](https://github.com/rearc/claude-code-example-marketplace) and [orders-workspace](https://github.com/rearc/claude-code-example-orders-workspace).
 
 | File | What it gives Claude |
 |---|---|
